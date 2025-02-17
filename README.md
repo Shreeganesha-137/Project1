@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @4nm22ec414 Shreeganesha
-- 👀 I’m interested in ... DevOps, Data analytics, Software testing.
+- 👀 I’m interested in ... DevOps, Cloud, Software testing.
 - 🌱 I’m currently learning ...Devops tools, data analytics tools and automation testing tools. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
